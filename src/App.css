@@ -1,0 +1,131 @@
+.App{
+  background: white;
+}
+ 
+.Logo {
+  height: 266px;
+  width: 149px;
+  top: 232px;
+  left: 110px;
+  position: absolute;
+}
+.drag-and-drop-box {
+  background: #EBF4FD;
+border: 2px dashed #AAAAAA;
+border-radius: 15px;
+  width: 1023px;
+ height: 338px;
+ left: 372px;
+ top: 220px;
+  position: relative;
+}
+
+.dragging {
+  border-color: blue;
+  color: blue;
+}
+
+
+.cloud-Logo{
+  position:absolute;
+ width: 76px;
+ height: 82px;
+left: 47%;
+top: 30%;
+}
+.rectangle-Logo {
+  position: absolute;
+  top: 13%;
+}
+.h4{
+  position: absolute;
+width: 120px;
+height: 16px;
+left: 3%;
+top: 0.5%;
+
+font-family: 'Helvetica';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 20px;
+/* identical to box height */
+
+text-align: center;
+
+color: #2963AC;
+}
+.h4-1{
+  position: absolute;
+width: 115px;
+height: 16px;
+left: 18%;
+top: 0.5%;
+
+font-family: 'Helvetica';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 16px;
+/* identical to box height */
+
+text-align: center;
+
+color: #5E5E5F;
+
+}
+.h1{
+  position: absolute;
+width: 123px;
+height: 25px;
+left: 45%;
+top: 47%;
+
+font-family: 'Helvetica';
+font-style: normal;
+font-weight: 400;
+font-size: 22px;
+line-height: 25px;
+text-align: center;
+
+color: #5E5E5F;
+
+}
+.h5{
+  position: absolute;
+width: 171px;
+height: 14px;
+left: 43%;
+top: 53%;
+
+font-family: 'Helvetica';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 14px;
+/* identical to box height */
+
+text-align: center;
+
+color: #969696;
+
+}
+.h5-1{
+  position: absolute;
+width: 291px;
+height: 14px;
+left: 37%;
+top: 58%;
+
+font-family: 'Helvetica';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 14px;
+/* identical to box height */
+
+text-align: center;
+
+color: #134B93;
+
+}
